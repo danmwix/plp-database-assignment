@@ -5,7 +5,7 @@
 | Albert Disi       | [@disi98](https://github.com/disi98) |
 | Daniel Mwanzia    | [@danmwix](https://github.com/danmwix)|
 | Lynn Jemosop      |                                      |
-| Dianarose Paula   |                                      |
+| Dianarose Paulo   |                                      |
 
 ## Files
 |File                           | Contents   |
